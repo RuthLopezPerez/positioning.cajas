@@ -12,20 +12,23 @@ div{
 .b{
 	background-color: blue;
 	position: absolute;
-	right: 0px;
-	top: 0px;
+	left: 200px;
+	top: 200px;
 }
 .c{
 	background-color: green;
 	position: absolute;
 	left: 0px;
 	bottom: 0px;
+	top: 200px;
 }
 .d{
 	background-color: yellow;
 	position: absolute;
-	right: 0px;
-	bottom: 0px;
+	left: 0px;
+	top: 400px;
+	bottom: 200px;
+
 }
 .flotante{
 
