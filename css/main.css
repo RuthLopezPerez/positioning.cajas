@@ -1,0 +1,32 @@
+div{
+	width: 200px;
+	height: 200px;
+	border: 1px;
+}
+.a{
+	background-color: red;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+.b{
+	background-color: blue;
+	position: absolute;
+	right: 0px;
+	top: 0px;
+}
+.c{
+	background-color: green;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
+.d{
+	background-color: yellow;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+.flotante{
+
+}
